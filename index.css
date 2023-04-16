@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Poppins', sans-serif;
+}
+h1,h2{
+    font-size: 80px;
+    text-align: center;
+}
+h2{
+    color:grey;
+}
+button{
+    border: none;
+    font-size: 35px;
+    font-weight: bold;
+    margin: auto 40vw;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 400px;
+    border-radius: 8px;
+    color: white;
+}
+#increment-btn{
+    background-color: red;
+}
+#decrement-btn{
+    background-color: green;
+}
+#save-btn{
+    background-color: blue;
+}
+p{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
