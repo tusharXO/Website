@@ -9,29 +9,30 @@ body{
 }
 .container{
     background-color: rgba(0, 174, 255, 0.425);
-    border: 5px solid black;
+    border: .3vw solid black;
     border-radius: 10px;
-    width: 30%;
-    height: 70vh;
+    margin-left: 20vw;
+    width: 50vw;
+    height: 40vw;
     padding: 30px;
-    margin: auto 35vw;
 }
 h1,h2{
-    font-size: 80px;
+    font-size: 4.5vw;
     text-align: center;
 }
 h2{
     color:grey;
 }
 button{
-    border: 2px solid black;
+    position: relative;
+    border: .2vw solid black;
     margin: auto 80px;
-    font-size: 35px;
+    font-size: 1.8vw;
     font-weight: bold;
-    margin-bottom: 10px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    width: 400px;
+    margin-bottom: .3vw;
+    padding-top: .3vw;
+    padding-bottom: .3vw;
+    width: 30vw;
     border-radius: 8px;
     color: white;
 }
@@ -45,7 +46,7 @@ button{
     background-color: blue;
 }
 p{
-    font-size: 40px;
+    font-size: 2.5vw;
     font-weight: bold;
     text-align: center;
     margin-top: 20px;
