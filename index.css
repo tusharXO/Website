@@ -24,15 +24,16 @@ h2{
     color:grey;
 }
 button{
+    display: block;
     position: relative;
     border: .2vw solid black;
-    margin: auto 80px;
+    left: 6.5em;
     font-size: 1.8vw;
     font-weight: bold;
     margin-bottom: .3vw;
     padding-top: .3vw;
     padding-bottom: .3vw;
-    width: 30vw;
+    width: 15em;
     border-radius: 8px;
     color: white;
 }
